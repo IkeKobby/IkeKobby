@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IkeKobby, a student, researcher, data scientist and table tennis lover. I love dancing really well too. :-)
-- 👀 I’m interested in all Data Science project related, be it Machine learning, deep learning, computer vision, natural language processing and many others
+- 👋 Hi, I’m @IkeKobby, a student, researcher, machine learning engineer and table tennis lover. I love dancing really well too. :-)
+- 👀 I’m interested in all Data Science project related, be it Machine learning with graph, deep learning, computer vision, natural language processing and many others
 - 🌱 I’m currently working on credit risk modeling as an intern(remotely) using machine learning techniques and hopefully continuing studies in Data Science, research based.
 - 💞️ I’m looking to collaborate on projects from the field of Data Science, finance and many more applications of Machine learning.
 - 📫 How to reach me, find from the profile, my twitter handler to link up for all related questions and contributions. 
